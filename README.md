@@ -1,28 +1,31 @@
-# Unity2019114f1-2D-Template
+# home-WebGL-movingBall-cs-gerum1
 
 ### Project description: 
-Introduction/Project summary 
+The project consists of a canvas (960x600), with a button, a text, four Empty Game Objects, a GameObject ball (imported) and a script 
+
+When the button is pressed the ball moves randoly to one of four positions (PosBottomLeft, PosBottomRight, PosTopLeft, PosTopRight 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+* Apple Mac OS; 
+* Unity Version: 2019.1.14f1; 
+* Visual Studio Version: Microsoft Visual Studio Code 2018;
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL incl. reference resolution 960x600 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+<div>
+<img src = "./Screenshots/Screenshot1.png" width = "500">
+</div>
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-
-### Project state: 
-incl. progress in percent
+<a href="https://de.wikipedia.org/wiki/Datei:Soccer_ball.svg">Ball Picture</a>
 
 ### Limitations: 
+WebGL
 
 ### Lessons Learned: 
+* make a GUI
 
-Copyright by you :)
+
+Copyright by gerum1
